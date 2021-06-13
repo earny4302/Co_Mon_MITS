@@ -1,0 +1,43 @@
+.main
+{
+    background-color: #efefef;
+    padding: 0%;
+
+}
+#red{
+    background-color: #bc1823;
+    width: 30vw;
+    position: absolute;
+    padding: 0%;
+    right: 0px;
+    height: 100%;
+    top: 0px;
+    
+}
+#logo{
+    
+    width: 30vw;
+    top: 15vw;
+    bottom: 15vw;
+    position: absolute;
+    padding: 0%;
+    right: 15vw;
+    height: 50%;
+    z-index: 2;
+    
+}
+#buttons
+{
+    background-color: #bc1823;
+    padding: 5px;
+    color: #efefef;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin: 4px 2px;
+    width:max-content;
+    border-radius: 36px;
+}
