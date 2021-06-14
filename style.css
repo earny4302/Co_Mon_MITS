@@ -6,23 +6,20 @@
 }
 #red{
     background-color: #bc1823;
-    width: 30vw;
-    position: absolute;
+    width: 30%;
+    position:absolute;
     padding: 0%;
-    right: 0px;
+    right: 0%;
     height: 100%;
     top: 0px;
     
 }
-#logo{
-    
-    width: 30vw;
-    top: 15vw;
-    bottom: 15vw;
+#logo{    
+    width: 30%;
     position: absolute;
-    padding: 0%;
-    right: 15vw;
-    height: 50%;
+
+    right: 15%;
+    height: auto;
     z-index: 2;
     
 }
@@ -40,4 +37,8 @@
     margin: 4px 2px;
     width:max-content;
     border-radius: 36px;
+}
+#about
+{
+    display: block;
 }
